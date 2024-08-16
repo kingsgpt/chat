@@ -1,0 +1,12 @@
+/* Add your CSS styling here */
+body {
+    font-family: Arial, sans-serif;
+}
+#auth, #chat {
+    padding: 20px;
+}
+#messages {
+    border: 1px solid #ccc;
+    height: 300px;
+    overflow-y: scroll;
+}
